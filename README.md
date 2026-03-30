@@ -1,6 +1,32 @@
-<h1>SpaceX Falcon 9 first stage Landing Prediction</h1>
+<h1>SpaceX Falcon 9 First Stage Landing Prediction</h1>
 
 <h2>Problem Statement</h2>
-<p>The objective of this project is to predict whether the first stage of the SpaceX Falcon 9 rocket will land successfully. SpaceX advertises Falcon 9 launches at a significantly lower cost (approximately $62 million) compared to other providers, which can charge upwards of $165 million per launch. This cost advantage is largely due to the reusability of the rocket’s first stage.<br>
-  By accurately predicting the landing outcome, we can estimate the overall cost of a launch. This information is valuable for organizations or companies that aim to compete with SpaceX in bidding for rocket launch contracts, as it helps in strategic decision-making and cost estimation.
-</p>
+SpaceX advertises Falcon 9 rocket launches at $62 million — far cheaper than other providers who charge upwards of $165 million. The key reason is reusability of the first stage. This project predicts whether the Falcon 9 first stage will land successfully, which helps estimate launch costs and assists companies bidding against SpaceX.
+
+<h2>Objective</h2> 
+Build a machine learning model to predict the success of Falcon 9 first stage landings using historical launch data.
+
+<h2> Tools & Technologies</h2>
+<ul>
+<li>Python, Pandas, NumPy</li>
+<li>Requests, BeautifulSoup</li> 
+<li>Matplotlib, Seaborn, Plotly, Folium</li>
+<li>Scikit-learn</li>
+</ul>
+
+<h2>Project Progress</h2>
+<ul>
+<li>[x] Data Collection via SpaceX API </li>
+<li>[ ] Data Collection via Web Scraping</li>
+<li>[ ] Data Wrangling</li>
+<li>[ ] Exploratory Data Analysis</li>
+<li>[ ] Interactive Visualizations</li>
+<li> [ ] ML Model Building</li>
+<li>[ ] Model Evaluation</li>
+</ul>
+
+<h2>Dataset Source</h2> 
+<ul>
+<li>SpaceX REST API</li>
+<li>Wikipedia — List of Falcon 9 and Falcon Heavy launches</li>
+</ul>
