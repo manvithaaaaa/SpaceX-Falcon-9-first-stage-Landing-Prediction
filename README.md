@@ -19,10 +19,10 @@ Build a machine learning model to predict the success of Falcon 9 first stage la
 <li>[x] Data Collection via SpaceX API </li>
 <li>[x] Data Collection via Web Scraping</li>
 <li>[x] Data Wrangling</li>
-<li>[x] Exploratory Data Analysis</li>
+<li>[x] Exploratory Data Analysis with SQL</li>
+<li>[x] Exploratory Data Analysis with Visualisation</li>
 <li>[ ] Interactive Visualizations</li>
-<li> [ ] ML Model Building</li>
-<li>[ ] Model Evaluation</li>
+<li> [ ] ML Model Building and vizualisation</li>
 </ul>
 
 <h2>Dataset Source</h2> 
