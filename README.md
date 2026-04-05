@@ -21,7 +21,7 @@ Build a machine learning model to predict the success of Falcon 9 first stage la
 <li>[x] Data Wrangling</li>
 <li>[x] Exploratory Data Analysis with SQL</li>
 <li>[x] Exploratory Data Analysis with Visualisation</li>
-<li>[ ] Interactive Visualizations</li>
+<li>[x] Interactive Visualizations</li>
 <li> [ ] ML Model Building and vizualisation</li>
 </ul>
 
@@ -30,3 +30,9 @@ Build a machine learning model to predict the success of Falcon 9 first stage la
 <li>SpaceX REST API</li>
 <li>Wikipedia — List of Falcon 9 and Falcon Heavy launches</li>
 </ul>
+
+<h2>Dashboard Preview</h2>
+![All Sites](All%20sites.png)
+![KSC LC-39A](KSC%20LC-39A.png)
+![CCFAS](CCFAS.png)
+![VAFB SLC-4E](VAFB%20SLC-4E)
