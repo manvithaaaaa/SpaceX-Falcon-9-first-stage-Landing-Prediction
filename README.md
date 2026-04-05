@@ -32,7 +32,11 @@ Build a machine learning model to predict the success of Falcon 9 first stage la
 </ul>
 
 <h2>Dashboard Preview</h2>
-![All Sites](All%20sites.png)
-![KSC LC-39A](KSC%20LC-39A.png)
-![CCFAS](CCFAS.png)
-![VAFB SLC-4E](VAFB%20SLC-4E)
+
+![All Sites](dashboard_all_sites.png)
+
+![KSC](dashboard_ksc.png)
+
+![CCAFS](dashboard_ccafs.png)
+
+![VAFB](dashboard_vafb.png)
